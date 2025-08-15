@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+pydantic
+sqlalchemy
+alembic
+python-dotenv
+passlib[bcrypt]
+python-jose
+psycopg2-binary
+aiofiles
+python-multipart
+typing_extensions
+requests
+streamlit
+torch
